@@ -32,7 +32,7 @@ const Home = () => {
       </div>
       <div className="mx-10 px-2 py-2 border rounded bg-base-100">
         <p className="text-left text-sm">
-          "Up" is a beautifully animated and emotionally poignant exploration of the power of love and the importance of following your dreams.
+        &quot;Up&quot; is a beautifully animated and emotionally poignant exploration of the power of love and the importance of following your dreams.
         </p>
       </div>
     </div>
